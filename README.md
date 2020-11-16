@@ -1,5 +1,5 @@
 ### Hi there!
-My name is Hara Red, welcome to my huble github page.
+My name is Hara Red, welcome to my humble github page.
 
 Most of my research is private work, but you can see some results here.
 
